@@ -1,1 +1,1 @@
-web: ./build/install/spring-security/bin/spring-security
+web: ./build/libs/spring-security-0.0.1.jar
