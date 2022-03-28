@@ -1,0 +1,1 @@
+web: ./build/install/test-auth/bin/test-auth
