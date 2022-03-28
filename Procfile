@@ -1,1 +1,1 @@
-web: ./build/install/test-auth/bin/test-auth
+web: ./build/install/spring-security/bin/spring-security
